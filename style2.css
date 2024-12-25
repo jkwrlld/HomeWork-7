@@ -1,0 +1,7 @@
+:root {
+--background:blue;    
+}
+
+.a {
+    background-color: var(--background);
+}
