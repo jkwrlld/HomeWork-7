@@ -1,7 +1,37 @@
 :root {
---background:blue;    
+--background:#2F303A; 
+--color: #FFFFFF;
+--biccim: #2196F3;
+--horme: #F5F4FA;
+--bulk: #757575;
+--homk: #212121;
+
 }
 
 .a {
     background-color: var(--background);
+}
+
+.abc {
+    color: var(--color) ;
+}
+
+.zxc {
+    background-color: var(--biccim);
+}
+
+.ert {
+    background-color: var(--color);
+}
+
+.tnt {
+    background-color: var(--horme);
+}
+
+.area {
+    background-color: var(--background);
+}
+
+.tyu {
+    color: var(--bulk);
 }
