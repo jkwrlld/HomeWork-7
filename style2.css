@@ -5,7 +5,8 @@
 --horme: #F5F4FA;
 --bulk: #757575;
 --homk: #212121;
-
+--golk: #000000;
+--jokk: #ECECEC;
 }
 
 .a {
@@ -18,6 +19,7 @@
 
 .zxc {
     background-color: var(--biccim);
+    color: var(--color);
 }
 
 .ert {
@@ -34,4 +36,8 @@
 
 .tyu {
     color: var(--bulk);
+}
+
+.bnm {
+    color: var(--biccim);
 }
